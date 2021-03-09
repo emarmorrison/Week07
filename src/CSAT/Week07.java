@@ -60,8 +60,7 @@ public class Week07 {
         {
             sum += array[i];
         }
-
-        System.out.println("Sum of array elements= " + sum);
+        System.out.println("Sum of array elements: " + sum);
     }
 
 }
